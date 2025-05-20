@@ -1,11 +1,11 @@
-## oii, eu sou a Bruna Fernandes 👋
+## oii, eu sou a Bruna Fernandes 🎀
 
 - 🕸️ dev em desenvolvimento
 - 🐇 ads 1/4
-- 🍒 aspirante a dev front-end e ui/ux design
+- 🐚 aspirante a dev front-end e ui/ux design
 - 🪼 organização com tecnologia
 
-aprendendo: 🎟️
+aprendendo: 🎀
 <div style="display: inline_block"><br>
 <img align="center" alt="Bru-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
 <img align="center" alt="Bru-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
