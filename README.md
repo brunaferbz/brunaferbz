@@ -1,11 +1,9 @@
-## oii, eu sou a Bruna Fernandes 🎀
+## ‹ ☆ welcome to my safe space !! ☾ ›
 
-- 🕸️ dev em desenvolvimento
-- 🐇 ads 1/4
-- 🐚 aspirante a dev front-end e ui/ux design
-- 🪼 organização com tecnologia
+Tenho 17 anos e sou estudante de Análise e Desenvolvimento de Sistemas na Universidade da Amazônia. Atualmente, estou focada em aprimorar meus conhecimentos em programação, com ênfase em Desenvolvimento Front-end e Design de Experiência do Usuário (UX). Estou sempre em busca de novos aprendizados e desafios na área da tecnologia, sou movida pela paixão por criar soluções inovadoras que unam funcionalidade, beleza e boa experiência para o usuário!
+##
 
-aprendendo: 🎀
+## MY FAVS 🎀
 <div style="display: inline_block"><br>
 <img align="center" alt="Bru-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
 <img align="center" alt="Bru-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -14,13 +12,11 @@ aprendendo: 🎀
 
 ##
 
+## SOCIAL MEDIAS 🎀
 <div>
   <a href="https://www.instagram.com/brunaferbz" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://br.pinterest.com/buggiiez" target="_blank"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white"  target="_blank"></a>
   <a href="https://www.tiktok.com/@buggiiez?_t=ZM-8wWUAOew3W9&_r=1" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"  target="_blank"></a>
-  <a href="https://steamcommunity.com/profiles/76561199139912413" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"  target="_blank"></a>
-  <a href="https://x.com/buggiecharm" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"  target="_blank"></a>
   <a href="https://www.linkedin.com/in/brunafernandesbatista" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
-  <a href="https://open.spotify.com/user/31zfw3zg7ia26ikzsdb4xhfwpw4y?si=7eb356f9d5f24bcf" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"  target="_blank"></a>
   <a href="https://wa.me/93992407895" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"  target="_blank"></a>
 </div>
