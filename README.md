@@ -34,7 +34,7 @@
 
 ##
 <div style="text-align: center;" align="center">
-  <h3>* github stats !*</h3>
+  <h3>github stats !</h3>
   <br>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=brunaferbz&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=c1121f&text_color=FFF&border_radius=3&border_color=36123c&icon_color=c1121f&theme=jolly" alt="GitHub stats">
 
