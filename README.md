@@ -5,7 +5,7 @@
 </div>
 
 ##
-<p align="center">Tenho 17 anos e sou estudante de Análise e Desenvolvimento de Sistemas na Universidade da Amazônia. Atualmente, estou focada em aprimorar meus conhecimentos em programação, com ênfase em Desenvolvimento Front-end e Design de Experiência do Usuário (UX). Estou sempre em busca de novos aprendizados e desafios na área da tecnologia, sou movida pela paixão por criar soluções inovadoras que unam funcionalidade, beleza e boa experiência para o usuário!
+<p align="center">Tenho 18 anos e sou estudante de Análise e Desenvolvimento de Sistemas na Universidade da Amazônia. Atualmente, estou focada em aprimorar meus conhecimentos em programação, com ênfase em Desenvolvimento Front-end e Design de Experiência do Usuário (UX). Estou sempre em busca de novos aprendizados e desafios na área da tecnologia, sou movida pela paixão por criar soluções inovadoras que unam funcionalidade, beleza e boa experiência para o usuário!
 
 ##
 
